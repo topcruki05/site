@@ -1,9 +1,10 @@
 body {
     background: #BF7781 ;
-    color: #FFF8F0;
+    color: #4E4351
+    <link href="https://fonts.googleapis.com/css?family=Oswald|Poppins|Roboto+Mono|Ubuntu&display=swap" rel="stylesheet">
 }
 
-h3 {
+h3 { <p> font-family: "Oswald", sans-serif
     color:403E3C ;
 }
 
